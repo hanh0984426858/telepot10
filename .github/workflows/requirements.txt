@@ -1,2 +1,21 @@
-flask
-pytest
+pyrsistent                    0.18.0
+PySocks                       1.7.1
+pyTelegramBotAPI              4.11.0
+pytest                        7.1.2
+python-crfsuite               0.9.9
+python-dateutil               2.8.2
+python-decouple               3.8
+python-lsp-black              1.2.1
+python-lsp-jsonrpc            1.0.0
+python-lsp-server             1.7.1
+python-slugify                5.0.2
+python-snappy                 0.6.1
+python-telegram-bot           20.2
+pytoolconfig                  1.2.5
+telebot                       0.0.5
+telegram                      0.0.1
+telepot                       12.7
+opencv-python                4.6.0.66
+ultralytics                   8.0.99
+Unidecode                     1.2.0
+urllib3                       1.26.14
