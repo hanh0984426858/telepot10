@@ -17,5 +17,3 @@ telegram                      0.0.1
 telepot                       12.7
 opencv-python                4.6.0.66
 ultralytics                   8.0.99
-Unidecode                     1.2.0
-urllib3                       1.26.14
